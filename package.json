@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/KiKiKi-KiKi/useOnClickOutside/issues"
   },
-  "homepage": "https://github.com/KiKiKi-KiKi/useOnClickOutside#readme"
+  "homepage": "https://github.com/KiKiKi-KiKi/useOnClickOutside#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
+  }
 }
