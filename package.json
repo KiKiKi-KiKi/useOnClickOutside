@@ -1,0 +1,24 @@
+{
+  "name": "use-onclick-outside",
+  "version": "0.0.1",
+  "description": "React custom hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KiKiKi-KiKi/useOnClickOutside.git"
+  },
+  "keywords": [
+    "react",
+    "react-hook",
+    "click-outside"
+  ],
+  "author": "KiKiKi KiKi <https://twitter.com/KiKiKi_KiKi>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiKiKi-KiKi/useOnClickOutside/issues"
+  },
+  "homepage": "https://github.com/KiKiKi-KiKi/useOnClickOutside#readme"
+}
